@@ -7,15 +7,11 @@ Libraries used: numpy, pandas, matplotlib, seaborn, plotly, sklearn, pyspark and
 
 If you have anaconda installed, the above mentioned libraries are included, but if you are planning on using it without the anaconda distribution, you have to install the libraries. 
 
-Open a new Command Prompt window
+Open a new Command Prompt or a terminal window
 
 Type the following command:
 
-      conda create -n tensorflow pip python=3.7
+      pip install library_name
 
-The above will create a new virtual environment with name tensorflow
 
-Now activate the newly created virtual environment by running the following:
-
-      activate tensorflow
 
